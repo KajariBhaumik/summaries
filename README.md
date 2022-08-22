@@ -1,1 +1,3 @@
 # Summaries
+
+Welcome to the github profile of Kajari Bhaumik. This section contains the summary of various projects undertaken for self-learning, hobby or academic purpose. Hope you like visiting...
