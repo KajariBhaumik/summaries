@@ -4,5 +4,5 @@ Welcome to the github profile of Kajari Bhaumik. This section contains the summa
 
 # Academic Projects:
 
-- [H & M Product Recommendation](https://github.com/KajariBhaumik/HnM_Product_Recommendation/blob/main/README.md):
+- [H & M Product Recommendation](https://github.com/KajariBhaumik/HnM_Product_Recommendation):
 - [AirBnb Asheville Market](https://github.com/KajariBhaumik/AirBnb_Market_Analysis): 
