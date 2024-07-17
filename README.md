@@ -4,7 +4,9 @@ Welcome to the github profile of Kajari Bhaumik. This section contains the summa
 
 # Academic Projects:
 
-- [Truist modeling competition](https://github.com/KajariBhaumik/Truist_modeling_competition): <b> <u> Nimble niner team lead by Kajari Bhaumik got 3rd rank </b> </u>  the Inter-University comptetion.
+- [Truist modeling competition](https://github.com/KajariBhaumik/Truist_modeling_competition): <b> <u> Nimble niner team lead by Kajari Bhaumik got 3rd rank </b> </u> in the Inter-University comptetion.
+  \n
+  \n
   ![image](https://github.com/user-attachments/assets/482a44e9-d826-4263-8752-d654cf329d37)
   
 - [H & M Product Recommendation](https://github.com/KajariBhaumik/HnM_Product_Recommendation): H&M group is a well known family of brands and businesses that has over 4,800 retail stores and caters to 53 online markets. It organized a kaggle competition and invited participants to develop product recommendations based on data leveraging over 31 million transaction data involving over 1.3 million unique customers and more than 100,000 products. 
