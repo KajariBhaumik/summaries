@@ -9,10 +9,9 @@ Welcome to the GitHub profile of Kajari Bhaumik. This section contains summaries
 [**Basketball Shot Analysis Repository**](https://github.com/KajariBhaumik/Basketball_Shot_Analysis)
 
 This project leverages computer vision to automate basketball shot analysis, focusing on detecting key frames like the release frame and identifying critical objects. The goal is to provide actionable insights to enhance player performance and coaching strategies.
-
-<img src="github.com/KajariBhaumik/BasketballShootingAnalysis/images_and_results/image_processing_1.png" alt="Image Processing" width="600"/>
-<img src="github.com/KajariBhaumik/BasketballShootingAnalysis/images_and_results/object_detection.png" alt="Image Processing" width="600"/>
-<img src="github.com/KajariBhaumik/BasketballShootingAnalysis/images_and_results/spin_axis_calculations.png" alt="Object Detection" width="600"/>
+<img src="github.com/KajariBhaumik/BasketballShootingAnalysis/blob/main/images_and_results/image_processing_1.png" alt="Image Processing" width="600"/>
+<img src="github.com/KajariBhaumik/BasketballShootingAnalysis/blob/main/images_and_results/object_detection.png" alt="Image Processing" width="600"/>
+<img src="github.com/KajariBhaumik/BasketballShootingAnalysis/blob/main/images_and_results/spin_axis_calculations.png" alt="Object Detection" width="600"/>
 
 ### Highlights:
 - **Object Detection:** Fine-tuned YOLOv8 to detect basketball, shooter, and hands with high precision and recall.
