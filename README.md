@@ -8,7 +8,8 @@ Welcome to the GitHub profile of Kajari Bhaumik. This section contains summaries
 
 [**Basketball Shot Analysis Repository**](https://github.com/KajariBhaumik/Basketball_Shot_Analysis)
 
-This project leverages cutting-edge computer vision techniques, including YOLOv8 and OpenCV, to automate basketball shot analysis. The system focuses on detecting key frames, such as the release frame, and identifying critical objects like the basketball, shooter, and hands. It employs PyTorch-based Convolutional Neural Networks (CNNs) for precise object detection and tracking, enabling accurate calculation of metrics like spin axis and rotation kinetics. The goal is to provide actionable insights to enhance player performance and optimize coaching strategies through advanced AI-driven analytics.
+This project leverages cutting-edge **computer vision** techniques, including **YOLOv8**, **OpenCV**, and **PyTorch-based CNNs**, to automate basketball shot analysis. It focuses on detecting key frames like the release frame and identifying critical objects such as the basketball, shooter, and hands. By employing advanced **object detection** and **tracking** methods, it calculates metrics like spin axis and rotation kinetics, delivering actionable insights to enhance player performance and optimize coaching strategies.
+
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/object_detection.png" alt="Object Detection" height="300"/>
