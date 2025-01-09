@@ -11,9 +11,9 @@ Welcome to the GitHub profile of Kajari Bhaumik. This section contains summaries
 This project leverages computer vision to automate basketball shot analysis, focusing on detecting key frames like the release frame and identifying critical objects. The goal is to provide actionable insights to enhance player performance and coaching strategies.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/image_processing_1.png" alt="Image Processing" height="200"/>
-  <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/object_detection.png" alt="Object Detection" height="200"/>
-  <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/spin_axis_calculations.png" alt="Spin Axis Calc" height="200"/>
+  <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/object_detection.png" alt="Object Detection" height="300"/>
+  <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/image_processing_1.png" alt="Image Processing" height="300"/>
+  <img src="https://raw.githubusercontent.com/KajariBhaumik/BasketballShootingAnalysis/main/images_and_results/spin_axis_calculations.png" alt="Spin Axis Calc" height="300"/>
 </div>
 
 
