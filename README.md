@@ -1,6 +1,24 @@
 # Summaries
 
-Welcome to the github profile of Kajari Bhaumik. This section contains the summary of various projects undertaken for self-learning, hobby or academic purpose. Hope you like visiting...
+Welcome to the GitHub profile of Kajari Bhaumik. This section contains summaries of various projects undertaken for self-learning, hobbies, or academic purposes. Hope you enjoy visiting!
+
+---
+
+## Featured Project: Basketball Shot Analysis with Computer Vision
+
+[**Basketball Shot Analysis Repository**](https://github.com/KajariBhaumik/Basketball_Shot_Analysis)
+
+This project leverages computer vision to automate basketball shot analysis, focusing on detecting key frames like the release frame and identifying critical objects. The goal is to provide actionable insights to enhance player performance and coaching strategies.
+
+![Basketball Project](https://github.com/user-attachments/assets/482a44e9-d826-4263-8752-d654cf329d37)
+
+### Highlights:
+- **Object Detection:** Fine-tuned YOLOv8 to detect basketball, shooter, and hands with high precision and recall.
+- **Release Frame Detection:** Automated identification of the frame where the ball is released using a custom-trained YOLO class.
+- **Spin Axis Calculation:** Used blob detection and motion tracking to analyze basketball rotation kinetics.
+
+---
+
 
 # Academic Projects:
 
