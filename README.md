@@ -4,7 +4,7 @@ Welcome to the GitHub profile of Kajari Bhaumik. This section contains summaries
 
 ---
 
-## Featured Project: Basketball Shot Analysis with Computer Vision
+# Featured Project: Basketball Shot Analysis with Computer Vision
 
 [**Basketball Shot Analysis Repository**](https://github.com/KajariBhaumik/Basketball_Shot_Analysis)
 
